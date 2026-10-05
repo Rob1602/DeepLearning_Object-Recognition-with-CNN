@@ -1,4 +1,4 @@
-Overview
+
 This project implements a multi-task convolutional neural network that simultaneously classifies the main object in an image and predicts its bounding-box coordinates. The three object classes are cucumber, eggplant, and mushroom.
 Methodology
 - Normalization of images and bounding-box coordinates.
